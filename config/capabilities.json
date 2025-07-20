@@ -1,0 +1,10 @@
+{
+  "platformName": "Android",
+  "platformVersion": "11.0",
+  "deviceName": "emulator-5554",
+  "automationName": "UiAutomator2",
+  "app": "/Users/kullaniciAdi/Desktop/iWallet.apk",
+  "appPackage": "com.iwallet",
+  "appActivity": "com.iwallet.MainActivity",
+  "noReset": true
+}
